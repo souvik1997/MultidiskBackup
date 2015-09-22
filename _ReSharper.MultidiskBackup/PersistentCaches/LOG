@@ -1,0 +1,16 @@
+2015/05/23-12:16:48.308 1270 Recovering log #38
+2015/05/23-12:16:48.308 1270 Level-0 table #40: started
+2015/05/23-12:16:48.359 1270 Level-0 table #40: 3681 bytes OK
+2015/05/23-12:16:48.360 1270 Recovering log #41
+2015/05/23-12:16:48.482 1270 Delete type=0 #38
+2015/05/23-12:16:48.485 1270 Delete type=0 #41
+2015/05/23-12:16:48.487 1270 Delete type=3 #36
+2015/05/23-12:16:48.488 eac Compacting 4@0 + 1@1 files
+2015/05/23-12:16:48.877 eac Generated table #43: 98 keys, 44142 bytes
+2015/05/23-12:16:48.877 eac Compacted 4@0 + 1@1 files => 44142 bytes
+2015/05/23-12:16:49.059 eac Delete type=2 #29
+2015/05/23-12:16:49.061 eac Delete type=2 #31
+2015/05/23-12:16:49.064 eac Delete type=2 #34
+2015/05/23-12:16:49.066 eac Delete type=2 #37
+2015/05/23-12:16:49.068 eac Delete type=2 #40
+2015/05/23-12:16:49.069 eac compacted to: files[ 0 1 0 0 0 0 0 ]

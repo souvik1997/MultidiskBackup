@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d33977ec-b18b-4637-968f-e5d13b52e152" name="souvik1997@SOUVIK-INSPIRON 2015-05-17 12:28:31" runUser="Souvik-Inspiron\souvik1997" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="777c7a64-ee60-461f-b21c-1e6df1f1bcab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="souvik1997_SOUVIK-INSPIRON 2015-05-17 12_28_31">
+      <DeploymentItem filename="C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-05-17T12:28:31.1652348-05:00" queuing="2015-05-17T12:28:31.3574440-05:00" start="2015-05-17T12:28:31.3574440-05:00" finish="2015-05-17T12:28:31.7162447-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="BasicTestOfEstimatedTimeCalculation" storage="c:\users\souvik1997\documents\visual studio 2010\projects\windowsformsapplication5\multidiskbackuptests\bin\debug\multidiskbackuptests.dll" id="ea1d1a6c-0065-2a21-640a-0f4e0f157d5d">
+      <Execution id="4f11c24b-5c36-403a-bce2-2f6aadbc5291" />
+      <TestMethod codeBase="C:/Users/souvik1997/Documents/Visual Studio 2010/Projects/WindowsFormsApplication5/MultidiskBackupTests/bin/Debug/MultidiskBackupTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MultidiskBackupTests.UnitTest1, MultidiskBackupTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BasicTestOfEstimatedTimeCalculation" />
+    </UnitTest>
+    <UnitTest name="RealisticTestOfEstimatedTimeCalculation" storage="c:\users\souvik1997\documents\visual studio 2010\projects\windowsformsapplication5\multidiskbackuptests\bin\debug\multidiskbackuptests.dll" id="97810a42-6a80-42d3-8e0c-a1a9186a7f1a">
+      <Execution id="ce6529e5-6c3f-4703-ab73-c7ac3f4274c7" />
+      <TestMethod codeBase="C:/Users/souvik1997/Documents/Visual Studio 2010/Projects/WindowsFormsApplication5/MultidiskBackupTests/bin/Debug/MultidiskBackupTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MultidiskBackupTests.UnitTest1, MultidiskBackupTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RealisticTestOfEstimatedTimeCalculation" />
+    </UnitTest>
+    <UnitTest name="MoreAdvancedTestOfEstimatedTimeCalculation" storage="c:\users\souvik1997\documents\visual studio 2010\projects\windowsformsapplication5\multidiskbackuptests\bin\debug\multidiskbackuptests.dll" id="8130bd9b-5a29-1a40-31c2-ed6f01073ba7">
+      <Execution id="e7b63869-b54b-4b74-9880-5e2672b8d752" />
+      <TestMethod codeBase="C:/Users/souvik1997/Documents/Visual Studio 2010/Projects/WindowsFormsApplication5/MultidiskBackupTests/bin/Debug/MultidiskBackupTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MultidiskBackupTests.UnitTest1, MultidiskBackupTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MoreAdvancedTestOfEstimatedTimeCalculation" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8130bd9b-5a29-1a40-31c2-ed6f01073ba7" executionId="e7b63869-b54b-4b74-9880-5e2672b8d752" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="97810a42-6a80-42d3-8e0c-a1a9186a7f1a" executionId="ce6529e5-6c3f-4703-ab73-c7ac3f4274c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea1d1a6c-0065-2a21-640a-0f4e0f157d5d" executionId="4f11c24b-5c36-403a-bce2-2f6aadbc5291" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e7b63869-b54b-4b74-9880-5e2672b8d752" testId="8130bd9b-5a29-1a40-31c2-ed6f01073ba7" testName="MoreAdvancedTestOfEstimatedTimeCalculation" computerName="SOUVIK-INSPIRON" duration="00:00:00.0220925" startTime="2015-05-17T12:28:31.3730441-05:00" endTime="2015-05-17T12:28:31.6850446-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7b63869-b54b-4b74-9880-5e2672b8d752">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce6529e5-6c3f-4703-ab73-c7ac3f4274c7" testId="97810a42-6a80-42d3-8e0c-a1a9186a7f1a" testName="RealisticTestOfEstimatedTimeCalculation" computerName="SOUVIK-INSPIRON" duration="00:00:00.0002626" startTime="2015-05-17T12:28:31.6850446-05:00" endTime="2015-05-17T12:28:31.6850446-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce6529e5-6c3f-4703-ab73-c7ac3f4274c7">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f11c24b-5c36-403a-bce2-2f6aadbc5291" testId="ea1d1a6c-0065-2a21-640a-0f4e0f157d5d" testName="BasicTestOfEstimatedTimeCalculation" computerName="SOUVIK-INSPIRON" duration="00:00:00.0002617" startTime="2015-05-17T12:28:31.7006446-05:00" endTime="2015-05-17T12:28:31.7006446-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f11c24b-5c36-403a-bce2-2f6aadbc5291">
+    </UnitTestResult>
+  </Results>
+</TestRun>

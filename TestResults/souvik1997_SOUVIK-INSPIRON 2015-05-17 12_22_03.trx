@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="138ab6fe-8b1f-4008-b1b5-f1436deebdaa" name="souvik1997@SOUVIK-INSPIRON 2015-05-17 12:22:03" runUser="Souvik-Inspiron\souvik1997" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="777c7a64-ee60-461f-b21c-1e6df1f1bcab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="souvik1997_SOUVIK-INSPIRON 2015-05-17 12_22_03">
+      <DeploymentItem filename="C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-05-17T12:22:03.8341995-05:00" queuing="2015-05-17T12:22:07.3316059-05:00" start="2015-05-17T12:22:07.4564061-05:00" finish="2015-05-17T12:22:21.8368770-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SOUVIK-INSPIRON" outcome="Error" timestamp="2015-05-17T12:22:21.8368770-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\souvik1997\documents\visual studio 2010\projects\windowsformsapplication5\multidiskbackuptests\bin\debug\multidiskbackuptests.dll" id="dd0a5fe5-b17f-1d58-16f1-3e50b944b336">
+      <Execution id="67a9f92b-fc1c-4988-aeae-4b58f87825ed" />
+      <TestMethod codeBase="C:/Users/souvik1997/Documents/Visual Studio 2010/Projects/WindowsFormsApplication5/MultidiskBackupTests/bin/Debug/MultidiskBackupTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MultidiskBackupTests.UnitTest1, MultidiskBackupTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="dd0a5fe5-b17f-1d58-16f1-3e50b944b336" executionId="67a9f92b-fc1c-4988-aeae-4b58f87825ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="67a9f92b-fc1c-4988-aeae-4b58f87825ed" testId="dd0a5fe5-b17f-1d58-16f1-3e50b944b336" testName="TestMethod1" computerName="SOUVIK-INSPIRON" duration="00:00:14.2400707" startTime="2015-05-17T12:22:07.5968063-05:00" endTime="2015-05-17T12:22:21.8368770-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67a9f92b-fc1c-4988-aeae-4b58f87825ed">
+    </UnitTestResult>
+  </Results>
+</TestRun>

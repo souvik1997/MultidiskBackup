@@ -1,0 +1,90 @@
+[05/24/15 8:34:00 -05:00] Application start
+[05/24/15 8:34:04 -05:00] User added C:\Users\souvik1997\Desktop\BPA NLC 2013 to sources
+[05/24/15 8:34:06 -05:00] User added C:\Users\souvik1997\Desktop\bios to destinations
+[05/24/15 8:34:06 -05:00] Resetting variables
+[05/24/15 8:34:06 -05:00] Creating new thread
+[05/24/15 8:34:06 -05:00] Enumerating files
+[05/24/15 8:34:07 -05:00] Finding largest file...
+[05/24/15 8:34:07 -05:00] Largest file: C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\N4110A11.exe
+[05/24/15 8:34:07 -05:00] Size: 9.6 MB
+[05/24/15 8:34:07 -05:00] Beginning simulation
+[05/24/15 8:34:07 -05:00] Populating safe free space
+[05/24/15 8:34:07 -05:00] Sorting files by destination
+[05/24/15 8:34:07 -05:00] Simulation complete
+[05/24/15 8:34:08 -05:00] All files will be able to be backed up
+[05/24/15 8:34:08 -05:00] Total available space: 32.0 GB
+[05/24/15 8:34:08 -05:00] Total size of files able to be backed up: 75.4 MB
+[05/24/15 8:34:08 -05:00] Starting stopwatches
+[05/24/15 8:34:08 -05:00] Setting counter variables to 0
+[05/24/15 8:34:08 -05:00] Counting files to be copied to each destination
+[05/24/15 8:34:08 -05:00] Destination C:\Users\souvik1997\Desktop\bios will have 75.4 MB of files
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLIC21\LENOVO.BIN -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLIC21\LENOVO.BIN
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLIC21\MSI.BIN -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLIC21\MSI.BIN
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLIC21\DELL.BIN -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLIC21\DELL.BIN
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLIC21\HP.BIN -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLIC21\HP.BIN
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLP\Fujitsu.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLP\Fujitsu.txt
+[05/24/15 8:34:08 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLP\HP.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLP\HP.txt
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLP\Asus.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLP\Asus.txt
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLP\Dell.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLP\Dell.txt
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLIC21\ASUS.BIN -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLIC21\ASUS.BIN
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLP10.MOD -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLP10.MOD
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLPSUPPORT.MOD -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLPSUPPORT.MOD
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\Readme.pdf -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\Readme.pdf
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SevenZipSharp.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SevenZipSharp.dll
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\KEY\OA30.TXT -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\KEY\OA30.TXT
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLI\SLI.DSL -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLI\SLI.DSL
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\SLPSUPPORT2.MOD -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\SLPSUPPORT2.MOD
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\UNINT32.EXE -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\UNINT32.EXE
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WinFlash.sys -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WinFlash.sys
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WinFlash64.sys -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WinFlash64.sys
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WINFLASH.INI -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WINFLASH.INI
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WINFLASH.LOG -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WINFLASH.LOG
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\DUMP\F33E367F-41D2-4201-9CB7-AFA63DCCEEC9_0_4.ROM -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\DUMP\F33E367F-41D2-4201-9CB7-AFA63DCCEEC9_0_4.ROM
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\DUMP\PADDING-0043C340_0_7.ROM -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\DUMP\PADDING-0043C340_0_7.ROM
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WinFlashUI.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WinFlashUI.dll
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\DUMP\C8AB0F4E-26FE-40F1-9579-EA8D30D503A4_0_5.ROM -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\DUMP\C8AB0F4E-26FE-40F1-9579-EA8D30D503A4_0_5.ROM
+[05/24/15 8:34:09 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\WinFlash.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\WinFlash.exe
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\environment.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\environment.dll
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\FvRecovery.fd -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\FvRecovery.fd
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\BIOS0.BIOS -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\BIOS0.BIOS
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\BIOS1.WPH -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\BIOS1.WPH
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\Slp20.pfae -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\Slp20.pfae
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\winflash.chm -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\winflash.chm
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\OemSlp20.efi -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\OemSlp20.efi
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\WinFlash\SLIC.LOG -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\WinFlash\SLIC.LOG
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\PREPARE.EXE -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\PREPARE.EXE
+[05/24/15 8:34:10 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\out3.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\out3.exe
+[05/24/15 8:34:11 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\PhLdrNT.sys -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\PhLdrNT.sys
+[05/24/15 8:34:12 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\out.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\out.exe
+[05/24/15 8:34:13 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\out2.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\out2.exe
+[05/24/15 8:34:14 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\7z.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\7z.dll
+[05/24/15 8:34:14 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\7z.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\7z.exe
+[05/24/15 8:34:14 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\PhLdrX64.sys -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\PhLdrX64.sys
+[05/24/15 8:34:14 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\PMPatch.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\PMPatch.exe
+[05/24/15 8:34:14 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\N4110A12.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\N4110A12.exe
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressBook.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressBook.txt
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressBookSorted.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressBookSorted.txt
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressBook.class -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressBook.class
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressBook.java -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressBook.java
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\customer.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\customer.txt
+[05/24/15 8:34:16 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\N4110A11.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\N4110A11.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressVO.class -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressVO.class
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\AddressVO.java -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\AddressVO.java
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\LZARI.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\LZARI.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\lzma.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\lzma.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\IASL.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\IASL.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\libeay32.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\libeay32.dll
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\PCI.CSV -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\PCI.CSV
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\PhoenixTool.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\PhoenixTool.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\lzss-r.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\lzss-r.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\lzss-rx.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\lzss-rx.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\hewprsa.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\hewprsa.exe
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\changelog.txt -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\changelog.txt
+[05/24/15 8:34:17 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\EFIDC.dll -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\EFIDC.dll
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\asl.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\asl.exe
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\CATENATE.EXE -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\CATENATE.EXE
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\FP.EXE -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\FP.EXE
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\gzip.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\gzip.exe
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\e_bcpvpw.exe -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\e_bcpvpw.exe
+[05/24/15 8:34:18 -05:00] Copied C:\Users\souvik1997\Desktop\BPA NLC 2013\bios\pt\FI.EXE -> C:\Users\souvik1997\Desktop\bios\BPA NLC 2013\bios\pt\FI.EXE
+[05/24/15 8:34:19 -05:00] Backup complete

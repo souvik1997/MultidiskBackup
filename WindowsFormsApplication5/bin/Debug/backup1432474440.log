@@ -1,0 +1,108 @@
+[05/24/15 8:32:19 -05:00] Application start
+[05/24/15 8:32:22 -05:00] User added C:\Users\souvik1997\Desktop to sources
+[05/24/15 8:32:25 -05:00] Removed -1 from sources
+[05/24/15 8:32:32 -05:00] User added C:\Users\souvik1997\Desktop\Images to sources
+[05/24/15 8:32:34 -05:00] User added C:\Users\souvik1997\Desktop\bios to destinations
+[05/24/15 8:32:35 -05:00] Resetting variables
+[05/24/15 8:32:35 -05:00] Creating new thread
+[05/24/15 8:32:35 -05:00] Enumerating files
+[05/24/15 8:32:35 -05:00] Finding largest file...
+[05/24/15 8:32:35 -05:00] Largest file: C:\Users\souvik1997\Desktop\Images\8\billy-sleeping.png
+[05/24/15 8:32:35 -05:00] Size: 7.2 MB
+[05/24/15 8:32:35 -05:00] Beginning simulation
+[05/24/15 8:32:35 -05:00] Populating safe free space
+[05/24/15 8:32:35 -05:00] Sorting files by destination
+[05/24/15 8:32:35 -05:00] Simulation complete
+[05/24/15 8:32:37 -05:00] All files will be able to be backed up
+[05/24/15 8:32:37 -05:00] Total available space: 32.0 GB
+[05/24/15 8:32:37 -05:00] Total size of files able to be backed up: 17.8 MB
+[05/24/15 8:32:37 -05:00] Starting stopwatches
+[05/24/15 8:32:37 -05:00] Setting counter variables to 0
+[05/24/15 8:32:37 -05:00] Counting files to be copied to each destination
+[05/24/15 8:32:37 -05:00] Destination C:\Users\souvik1997\Desktop\bios will have 17.8 MB of files
+[05/24/15 8:32:37 -05:00] Copied C:\Users\souvik1997\Desktop\Images\5\billy-gun.png -> C:\Users\souvik1997\Desktop\bios\Images\5\billy-gun.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\5\weak.jpg -> C:\Users\souvik1997\Desktop\bios\Images\5\weak.jpg
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\6\billy-drums.png -> C:\Users\souvik1997\Desktop\bios\Images\6\billy-drums.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\4\fairy-whip.png -> C:\Users\souvik1997\Desktop\bios\Images\4\fairy-whip.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\22\coronation.png -> C:\Users\souvik1997\Desktop\bios\Images\22\coronation.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\3\Floda.png -> C:\Users\souvik1997\Desktop\bios\Images\3\Floda.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\3\heil-floda.png -> C:\Users\souvik1997\Desktop\bios\Images\3\heil-floda.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\7\fairy-army.jpg -> C:\Users\souvik1997\Desktop\bios\Images\7\fairy-army.jpg
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\billy-ugly.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\billy-ugly.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\cavalry-on-field.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\cavalry-on-field.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\cavalry.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\cavalry.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\billy-horse.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\billy-horse.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\8\billy-sleeping.png -> C:\Users\souvik1997\Desktop\bios\Images\8\billy-sleeping.png
+[05/24/15 8:32:40 -05:00] Copied C:\Users\souvik1997\Desktop\Images\8\soldiers games.jpg -> C:\Users\souvik1997\Desktop\bios\Images\8\soldiers games.jpg
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\9\cavalry-on-field-with-flying-fairies.png -> C:\Users\souvik1997\Desktop\bios\Images\9\cavalry-on-field-with-flying-fairies.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\21\billy-floda.png -> C:\Users\souvik1997\Desktop\bios\Images\21\billy-floda.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\14\billy-waking-up.png -> C:\Users\souvik1997\Desktop\bios\Images\14\billy-waking-up.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\14\soldiers.png -> C:\Users\souvik1997\Desktop\bios\Images\14\soldiers.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\15\soldiers-dead.png -> C:\Users\souvik1997\Desktop\bios\Images\15\soldiers-dead.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\13\guillotine.gif -> C:\Users\souvik1997\Desktop\bios\Images\13\guillotine.gif
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\10\fairy ak47.png -> C:\Users\souvik1997\Desktop\bios\Images\10\fairy ak47.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\11\quicksand.jpg -> C:\Users\souvik1997\Desktop\bios\Images\11\quicksand.jpg
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\12\general-capture.png -> C:\Users\souvik1997\Desktop\bios\Images\12\general-capture.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\16\castle walls.jpg -> C:\Users\souvik1997\Desktop\bios\Images\16\castle walls.jpg
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\2\billy-basic.png -> C:\Users\souvik1997\Desktop\bios\Images\2\billy-basic.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\20\dragon.jpg -> C:\Users\souvik1997\Desktop\bios\Images\20\dragon.jpg
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\20\fairy grenade.png -> C:\Users\souvik1997\Desktop\bios\Images\20\fairy grenade.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\19\knight.png -> C:\Users\souvik1997\Desktop\bios\Images\19\knight.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\17\princess-carriage.png -> C:\Users\souvik1997\Desktop\bios\Images\17\princess-carriage.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\18\billy-horse-castle.png -> C:\Users\souvik1997\Desktop\bios\Images\18\billy-horse-castle.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\18\castle-siege.jpg -> C:\Users\souvik1997\Desktop\bios\Images\18\castle-siege.jpg
+[05/24/15 8:32:44 -05:00] Backup complete
+[05/24/15 8:32:19 -05:00] Application start
+[05/24/15 8:32:22 -05:00] User added C:\Users\souvik1997\Desktop to sources
+[05/24/15 8:32:25 -05:00] Removed -1 from sources
+[05/24/15 8:32:32 -05:00] User added C:\Users\souvik1997\Desktop\Images to sources
+[05/24/15 8:32:34 -05:00] User added C:\Users\souvik1997\Desktop\bios to destinations
+[05/24/15 8:32:35 -05:00] Resetting variables
+[05/24/15 8:32:35 -05:00] Creating new thread
+[05/24/15 8:32:35 -05:00] Enumerating files
+[05/24/15 8:32:35 -05:00] Finding largest file...
+[05/24/15 8:32:35 -05:00] Largest file: C:\Users\souvik1997\Desktop\Images\8\billy-sleeping.png
+[05/24/15 8:32:35 -05:00] Size: 7.2 MB
+[05/24/15 8:32:35 -05:00] Beginning simulation
+[05/24/15 8:32:35 -05:00] Populating safe free space
+[05/24/15 8:32:35 -05:00] Sorting files by destination
+[05/24/15 8:32:35 -05:00] Simulation complete
+[05/24/15 8:32:37 -05:00] All files will be able to be backed up
+[05/24/15 8:32:37 -05:00] Total available space: 32.0 GB
+[05/24/15 8:32:37 -05:00] Total size of files able to be backed up: 17.8 MB
+[05/24/15 8:32:37 -05:00] Starting stopwatches
+[05/24/15 8:32:37 -05:00] Setting counter variables to 0
+[05/24/15 8:32:37 -05:00] Counting files to be copied to each destination
+[05/24/15 8:32:37 -05:00] Destination C:\Users\souvik1997\Desktop\bios will have 17.8 MB of files
+[05/24/15 8:32:37 -05:00] Copied C:\Users\souvik1997\Desktop\Images\5\billy-gun.png -> C:\Users\souvik1997\Desktop\bios\Images\5\billy-gun.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\5\weak.jpg -> C:\Users\souvik1997\Desktop\bios\Images\5\weak.jpg
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\6\billy-drums.png -> C:\Users\souvik1997\Desktop\bios\Images\6\billy-drums.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\4\fairy-whip.png -> C:\Users\souvik1997\Desktop\bios\Images\4\fairy-whip.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\22\coronation.png -> C:\Users\souvik1997\Desktop\bios\Images\22\coronation.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\3\Floda.png -> C:\Users\souvik1997\Desktop\bios\Images\3\Floda.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\3\heil-floda.png -> C:\Users\souvik1997\Desktop\bios\Images\3\heil-floda.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\7\fairy-army.jpg -> C:\Users\souvik1997\Desktop\bios\Images\7\fairy-army.jpg
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\billy-ugly.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\billy-ugly.png
+[05/24/15 8:32:38 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\cavalry-on-field.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\cavalry-on-field.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\cavalry.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\cavalry.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\misc\billy-horse.png -> C:\Users\souvik1997\Desktop\bios\Images\misc\billy-horse.png
+[05/24/15 8:32:39 -05:00] Copied C:\Users\souvik1997\Desktop\Images\8\billy-sleeping.png -> C:\Users\souvik1997\Desktop\bios\Images\8\billy-sleeping.png
+[05/24/15 8:32:40 -05:00] Copied C:\Users\souvik1997\Desktop\Images\8\soldiers games.jpg -> C:\Users\souvik1997\Desktop\bios\Images\8\soldiers games.jpg
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\9\cavalry-on-field-with-flying-fairies.png -> C:\Users\souvik1997\Desktop\bios\Images\9\cavalry-on-field-with-flying-fairies.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\21\billy-floda.png -> C:\Users\souvik1997\Desktop\bios\Images\21\billy-floda.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\14\billy-waking-up.png -> C:\Users\souvik1997\Desktop\bios\Images\14\billy-waking-up.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\14\soldiers.png -> C:\Users\souvik1997\Desktop\bios\Images\14\soldiers.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\15\soldiers-dead.png -> C:\Users\souvik1997\Desktop\bios\Images\15\soldiers-dead.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\13\guillotine.gif -> C:\Users\souvik1997\Desktop\bios\Images\13\guillotine.gif
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\10\fairy ak47.png -> C:\Users\souvik1997\Desktop\bios\Images\10\fairy ak47.png
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\11\quicksand.jpg -> C:\Users\souvik1997\Desktop\bios\Images\11\quicksand.jpg
+[05/24/15 8:32:41 -05:00] Copied C:\Users\souvik1997\Desktop\Images\12\general-capture.png -> C:\Users\souvik1997\Desktop\bios\Images\12\general-capture.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\16\castle walls.jpg -> C:\Users\souvik1997\Desktop\bios\Images\16\castle walls.jpg
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\2\billy-basic.png -> C:\Users\souvik1997\Desktop\bios\Images\2\billy-basic.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\20\dragon.jpg -> C:\Users\souvik1997\Desktop\bios\Images\20\dragon.jpg
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\20\fairy grenade.png -> C:\Users\souvik1997\Desktop\bios\Images\20\fairy grenade.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\19\knight.png -> C:\Users\souvik1997\Desktop\bios\Images\19\knight.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\17\princess-carriage.png -> C:\Users\souvik1997\Desktop\bios\Images\17\princess-carriage.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\18\billy-horse-castle.png -> C:\Users\souvik1997\Desktop\bios\Images\18\billy-horse-castle.png
+[05/24/15 8:32:42 -05:00] Copied C:\Users\souvik1997\Desktop\Images\18\castle-siege.jpg -> C:\Users\souvik1997\Desktop\bios\Images\18\castle-siege.jpg
+[05/24/15 8:32:44 -05:00] Backup complete

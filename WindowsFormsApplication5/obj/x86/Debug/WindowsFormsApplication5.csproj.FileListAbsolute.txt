@@ -1,0 +1,7 @@
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.exe
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.pdb
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.Form1.resources
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.Properties.Resources.resources
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.exe
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.pdb

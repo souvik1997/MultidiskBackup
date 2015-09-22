@@ -1,0 +1,10 @@
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.exe
+c:\users\souvik1997\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.pdb
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.exe
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.pdb
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.csprojResolveAssemblyReference.cache
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.Form1.resources
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.Properties.Resources.resources
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.csproj.GenerateResource.Cache
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.NoVisualStyleProgressBar.resources
+C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\MultidiskBackup.AboutBox1.resources

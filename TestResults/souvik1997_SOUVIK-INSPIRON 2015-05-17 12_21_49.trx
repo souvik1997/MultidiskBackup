@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e945ed44-38c2-4297-a44b-7885c44122f8" name="souvik1997@SOUVIK-INSPIRON 2015-05-17 12:21:49" runUser="Souvik-Inspiron\souvik1997" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="777c7a64-ee60-461f-b21c-1e6df1f1bcab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="souvik1997_SOUVIK-INSPIRON 2015-05-17 12_21_49">
+      <DeploymentItem filename="C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MultidiskBackup.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-05-17T12:21:49.0105309-05:00" queuing="2015-05-17T12:21:49.1509312-05:00" start="2015-05-17T12:21:49.1509312-05:00" finish="2015-05-17T12:21:49.5253318-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\souvik1997\documents\visual studio 2010\projects\windowsformsapplication5\multidiskbackuptests\bin\debug\multidiskbackuptests.dll" id="dd0a5fe5-b17f-1d58-16f1-3e50b944b336">
+      <Execution id="daf47cb1-d22a-48ed-bd27-962006c1e83d" />
+      <TestMethod codeBase="C:/Users/souvik1997/Documents/Visual Studio 2010/Projects/WindowsFormsApplication5/MultidiskBackupTests/bin/Debug/MultidiskBackupTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MultidiskBackupTests.UnitTest1, MultidiskBackupTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="dd0a5fe5-b17f-1d58-16f1-3e50b944b336" executionId="daf47cb1-d22a-48ed-bd27-962006c1e83d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="daf47cb1-d22a-48ed-bd27-962006c1e83d" testId="dd0a5fe5-b17f-1d58-16f1-3e50b944b336" testName="TestMethod1" computerName="SOUVIK-INSPIRON" duration="00:00:00.0350880" startTime="2015-05-17T12:21:49.2445313-05:00" endTime="2015-05-17T12:21:49.4941318-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="daf47cb1-d22a-48ed-bd27-962006c1e83d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;00:06:00 (System.TimeSpan)&gt;. Actual:&lt;1800000000 (System.Int64)&gt;. </Message>
+          <StackTrace>   at MultidiskBackupTests.UnitTest1.TestMethod1() in C:\Users\souvik1997\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\MultidiskBackupTests\UnitTest1.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
